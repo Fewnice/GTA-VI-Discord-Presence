@@ -1,5 +1,7 @@
 # GTA VI Discord Rich Presence
 
+![GTA VI Discord Rich Presence](images/banner.png)
+
 A simple Python script that displays **Grand Theft Auto VI** as your current Discord activity.
 
 ## Features
@@ -8,6 +10,11 @@ A simple Python script that displays **Grand Theft Auto VI** as your current Dis
 - Displays a custom activity description
 - Shows an elapsed time counter
 - Closes the Rich Presence connection when stopped
+
+## Discord Accounts
+
+- `fewnice`
+- `oll.a`
 
 ## Requirements
 
