@@ -11,10 +11,9 @@ A simple Python script that displays **Grand Theft Auto VI** as your current Dis
 - Shows an elapsed time counter
 - Closes the Rich Presence connection when stopped
 
-## Discord Accounts
+## Discord
 
-- `fewnice`
-- `oll.a`
+![GTA VI Discord Rich Presence](images/oll.a.png)
 
 ## Requirements
 
